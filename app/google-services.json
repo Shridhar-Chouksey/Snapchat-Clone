@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "452888749084",
+    "firebase_url": "https://fir-oreo-5a08f.firebaseio.com",
+    "project_id": "fir-oreo-5a08f",
+    "storage_bucket": "fir-oreo-5a08f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452888749084:android:c21fdb7c7554cf65e0abd9",
+        "android_client_info": {
+          "package_name": "com.example.snapchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452888749084-60ifp5af0rhjift7gr9pabgepj7qvt32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI3VNsyav4vW3xSsFVO3wI4Ftn2JKfssg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452888749084-60ifp5af0rhjift7gr9pabgepj7qvt32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
